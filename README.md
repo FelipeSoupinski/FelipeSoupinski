@@ -1,7 +1,5 @@
 ### Hi there, I'm [Felipe Soupinski][linkedin] 👋
 
-[![linkedin](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.ung.br%2Fnoticias%2Ferros-para-fugir-na-hora-de-fazer-seu-perfil-no-linkedin&psig=AOvVaw37LqreyEV7wvd4woiQ7tRA&ust=1623815857751000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDf98zfmPECFQAAAAAdAAAAABAD)](https://codestackr.com)
-
 ## I'm a Student, Developer and Technology Enthusiast!!
 
 - 🌱 I’m currently learning Software Engineering
