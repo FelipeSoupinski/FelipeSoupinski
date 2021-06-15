@@ -39,7 +39,7 @@
 <br />
 <br />
 
-[![FelipeSoupinski's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSoupinski)](https://github.com/anuraghazra/github-readme-stats)
+![FelipeSoupinski's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSoupinski&show_icons=true&theme=dracula)
 
 
 [linkedin]: https://linkedin.com/in/felipe-soupinski-39269a1ab
