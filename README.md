@@ -1,10 +1,10 @@
 ### Hi there, I'm [Felipe Soupinski][linkedin] 👋
 
-## I'm a Student, Developer and Technology Enthusiast!!
+## I'm a Student, Software Engineer and Technology Enthusiast!!
 
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently studying for a master's degree
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 Goals: Junior Development job 
+- 🥅 2023 Goals: Develop software platforms vital signs analysis tool
 - ⚡ Fun fact: I like to study new technologies, listen to music and play games
 
 ### Connect with me:
