@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently studying for a master's degree
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2023 Goals: Develop software platforms vital signs analysis tool
+- 🥅 2024 Goals: Develop software platforms vital signs analysis tool
 - ⚡ Fun fact: I like to study new technologies, listen to music and play games
 
 ### Connect with me:
