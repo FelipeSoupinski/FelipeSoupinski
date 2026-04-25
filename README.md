@@ -1,10 +1,10 @@
 ### Hi there, I'm [Felipe Soupinski][linkedin] 👋
 
-## I'm a Student, Software Engineer and Technology Enthusiast!!
+## I'm a student, a software engineer, and I have a master's degree in computer science!
 
-- 🌱 I’m currently studying for a master's degree
+- 🌱 I'm studying AI techniques for Software Engineering
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2024 Goals: Develop software platforms vital signs analysis tool
+- 🥅 2025 Goals: Develop an AI-orchestrated software platform using n8n.
 - ⚡ Fun fact: I like to study new technologies, listen to music and play games
 
 ### Connect with me:
