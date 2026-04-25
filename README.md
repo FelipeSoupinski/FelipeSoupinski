@@ -1,6 +1,6 @@
 ### Hi there, I'm [Felipe Soupinski][linkedin] 👋
 
-## I'm a student, a software engineer, and I have a master's degree in computer science!
+## I'm a student, a Software Engineer, and I have a master's degree in computer science!
 
 - 🌱 I'm studying AI techniques for Software Engineering
 - 👯 I’m looking to collaborate with other Developers
