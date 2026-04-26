@@ -5,7 +5,7 @@
 - 🌱 I'm studying AI techniques for Software Engineering
 - 👯 I’m looking to collaborate with other Developers
 - 👨🏻‍💻 I currently work as a Technical Analyst at LEDES-UFMS and am one of those responsible for the [SigFap][sigfap] project
-- 🥅 2025 Goals: Develop an AI-orchestrated software platform using n8n.
+- 🥅 2026 Goals: Develop an AI-orchestrated software platform using n8n.
 - ⚡ Fun fact: I like to study new technologies, listen to music and play games
 
 ### Connect with me:
